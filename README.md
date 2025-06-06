@@ -35,7 +35,7 @@ Echa un vistazo a mis proyectos:
 - [`ProyectosProgramacionInteligenciaArtificial`](https://github.com/jmghc/ProyectosProgramacionInteligenciaArtificial) – Entrenamiento de modelos con Keras.
 - [`Streamlit`](https://github.com/jmghc/Streamlitr) – Entrenamiento de modelo de predicción y visualización con Streamlit.
 - [`ProyectoJava`](https://github.com/jmghc/ProyectoPortafolio) – Proyecto básico con Java,PHP y SQL
-- Otros Proyectos-->https://github.com/jmghc/ProyectoAsignaturaSistemasdeBigData
+- [`ProyectoBigData-Spark`](https://github.com/jmghc/ProyectoAsignaturaSistemasdeBigData.git) – Proyecto para la asignatura de Sistemas de Big Data.
 
 ---
 
