@@ -32,11 +32,13 @@
 ## 📂 Repositorios destacados
 
 Echa un vistazo a mis proyectos:
+
+- [`Proyecto Detección de Movimiento`](https://github.com/jmghc/DeteccionMovimientoConYOLO.git) - Proyecto realizado para la asignatura de Programación de Inteligencia Artificial con el objetivo de usar un modelo preentrenado para detectar el movimiento de las personas en una cámara.
+- [`Streamlit`](https://github.com/jmghc/Streamlit) – Entrenamiento de modelo de predicción y visualización con Streamlit.
 - [`ProyectosProgramacionInteligenciaArtificial`](https://github.com/jmghc/ProyectosProgramacionInteligenciaArtificial) – Entrenamiento de modelos con Keras.
-- [`Streamlit`](https://github.com/jmghc/Streamlitr) – Entrenamiento de modelo de predicción y visualización con Streamlit.
 - [`ProyectoJava`](https://github.com/jmghc/ProyectoPortafolio) – Proyecto básico con Java,PHP y SQL
 - [`ProyectoBigData-Spark`](https://github.com/jmghc/ProyectoAsignaturaSistemasdeBigData.git) – Proyecto para la asignatura de Sistemas de Big Data.
-- [`Proyecto Detección de Movimiento`](https://github.com/jmghc/DeteccionMovimientoConYOLO.git) - Proyecto realizado para la asignatura de Programación de Inteligencia Artificial con el objetivo de usar un modelo preentrenado para detectar el movimiento de las personas en una cámara.
+- 
 
 ---
 
