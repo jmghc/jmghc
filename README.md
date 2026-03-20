@@ -32,13 +32,13 @@
 ## 📂 Repositorios destacados
 
 Echa un vistazo a mis proyectos:
-
+- [`TodoApp - Proyecto FullStack](https://github.com/jmghc/TodoApp)
 - [`Proyecto Detección de Movimiento`](https://github.com/jmghc/DeteccionMovimientoConYOLO.git) - Proyecto realizado para la asignatura de Programación de Inteligencia Artificial con el objetivo de usar un modelo preentrenado para detectar el movimiento de las personas en una cámara.
 - [`Streamlit`](https://github.com/jmghc/Streamlit) – Entrenamiento de modelo de predicción y visualización con Streamlit.
 - [`ProyectosProgramacionInteligenciaArtificial`](https://github.com/jmghc/ProyectosProgramacionInteligenciaArtificial) – Entrenamiento de modelos con Keras.
 - [`ProyectoJava`](https://github.com/jmghc/ProyectoPortafolio) – Proyecto básico con Java,PHP y SQL
 - [`ProyectoBigData-Spark`](https://github.com/jmghc/ProyectoAsignaturaSistemasdeBigData.git) – Proyecto para la asignatura de Sistemas de Big Data.
-- [`TodoApp - Proyecto FullStack](https://github.com/jmghc/TodoApp)
+
 
 ---
 
