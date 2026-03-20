@@ -13,7 +13,7 @@
 
 ### 🌐 Desarrollo Web
 - **HTML5 / CSS3** – Interfaces limpias y responsivas.
-- **JavaScript (en progreso o como apoyo)** – Scripts del lado del cliente.
+- **JavaScript** – Scripts del lado del cliente.
 
 ### ☁️ Cloud & DevOps
 - **AWS** – EC2, S3, Lambda, RDS, IAM, etc.
@@ -32,7 +32,7 @@
 ## 📂 Repositorios destacados
 
 Echa un vistazo a mis proyectos:
-- [`TodoApp - Proyecto FullStack](https://github.com/jmghc/TodoApp)
+- [`TodoApp - Proyecto FullStack`](https://github.com/jmghc/TodoApp)
 - [`Proyecto Detección de Movimiento`](https://github.com/jmghc/DeteccionMovimientoConYOLO.git) - Proyecto de Inteligencia Artificial con el objetivo de usar un modelo preentrenado para detectar el movimiento de las personas en una cámara.
 - [`Streamlit`](https://github.com/jmghc/Streamlit) – Entrenamiento de modelo de predicción y visualización con Streamlit.
 - [`ProyectosProgramacionInteligenciaArtificial`](https://github.com/jmghc/ProyectosProgramacionInteligenciaArtificial) – Entrenamiento de modelos con Keras.
